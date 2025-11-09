@@ -8,6 +8,8 @@ Route Table & Routes Routes traffic from the internet to the VPC resources
 Security Groups Multiple SGs for instances and load balancer to control traffic flow
 S3 Backend Stores terraform.tfstate securely
 DynamoDB Table Used to lock the state file and prevent concurrent writes
+![AWS Terraform Infra](https://github.com/user-attachments/assets/0be0f882-9411-4d05-8a52-9c2ff96ac53f)
+
 ![Server-2](https://github.com/user-attachments/assets/74d41c71-05b4-418f-8e7e-03ce66d189d2)
 ![Server-1](https://github.com/user-attachments/assets/027c5a04-0d0a-4abc-b145-ee2910234d5e)
 ![S3-terraform tfstate](https://github.com/user-attachments/assets/793f21b4-63e8-4492-879f-ab0329dd7523)
